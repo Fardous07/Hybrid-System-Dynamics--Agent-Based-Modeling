@@ -53,7 +53,7 @@ Simulates individual households and decision-making:
   - Improve healthcare access under budget constraints.
 
 ## 🛠 Implementation Details
-- **Language**: Python 3.x
+- **Language**: Python 3.11.7
 
 ### Dependencies:
 - **Mesa**: Agent-Based Modeling framework
